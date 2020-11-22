@@ -13,3 +13,9 @@ Only one key is needed
 Symmetric key must remain secret
 Key distribution problem : difficult to deliver keys
 Symmetric algorithms don't provide authenticity or non-repudiation. You cannot know for sure who sent the message since two people have the same key
+
+Two types of symmetric algorithms
+---------------------------------
+Stream Ciphers operate on plaintext one bit at a time
+Block Ciphers operate on blocks of plaintext
+
