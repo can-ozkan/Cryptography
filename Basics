@@ -13,6 +13,7 @@ Only one key is needed
 Symmetric key must remain secret
 Key distribution problem : difficult to deliver keys
 Symmetric algorithms don't provide authenticity or non-repudiation. You cannot know for sure who sent the message since two people have the same key
+Example Algorithms : AES, DES, 3DES, IDEA, Blowfish, RC4, RC5, RC6
 
 Two types of symmetric algorithms
 ---------------------------------
