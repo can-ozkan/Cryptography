@@ -1,3 +1,12 @@
 Security comes from both a strong algorithm - one that cannot be reversed without the key and a key that cannot be found or guessed
 Keys : a sequence of random bits, the range of allowable values is called a keyspace
 The larger the key space, the more secure the key will be
+
+Symmetric Cryptography
+----------------------
+One key encrypts and decrypts data
+Cleartext with key makes ciphertext
+Ciphertext with key makes cleartext
+Symmetric algorithms are fast
+Difficult to break if a large key size is used
+Only one key is needed
